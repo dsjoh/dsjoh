@@ -81,7 +81,8 @@ Languages & Libraries & Development Tools </b>
 
 ### 🎯 Project
 <p>
--  [2024 Graduation Exhibition] An English Pronunciation Learning Service for Koreans Using LLM based Recommendation System (Clever Voice : CleVo) With Finda(핀다) </br>
+-  [2024 Graduation Exhibition] An English Pronunciation Learning Service for Koreans Using LLM based Recommendation System </br>
+   (Clever Voice : CleVo) With Finda(핀다) </br>
 -  [2023 AI Application] Proposal of CGANomaly (Conditional GANomaly), a Reconstruction-Based Anomaly Detection Model </br>
 -  [2023 AiaaS] Experimenting with a Drawing Condition Prediction Model Using Generative Model-Based Data Augmentation </br>
 -  [2023 AiaaS] Research on Context-Based Decision Making for Autonomous Vehicles Using Object Detection in Unity Environment </br>
