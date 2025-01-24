@@ -81,13 +81,14 @@ Languages & Libraries & Development Tools </b>
 
 ### 🎯 Project
 <p>
--  [2024 Graduation Exhibition] An English Pronunciation Learning Service for Koreans Using LLM based Recommendation System (Clever Voice : CleVo) With Finda(핀다)
--  [2023 AI Application] Proposal of CGANomaly (Conditional GANomaly), a Reconstruction-Based Anomaly Detection Model
--  [2023 AiaaS] Experimenting with a Drawing Condition Prediction Model Using Generative Model-Based Data Augmentation
--  [2023 AiaaS] Research on Context-Based Decision Making for Autonomous Vehicles Using Object Detection in Unity Environment
--  [2023 Text Mining] Development of a Low-Level Chatbot-Based Seoul City Tour Recommendation System
--  [2023 Machine Learning] Parkinson’s Disease Prediction Project Based on Smartphone Sensor Data
- 
+-  [2024 Graduation Exhibition] An English Pronunciation Learning Service for Koreans Using LLM based Recommendation System (Clever Voice : CleVo) With Finda(핀다) </br>
+-  [2023 AI Application] Proposal of CGANomaly (Conditional GANomaly), a Reconstruction-Based Anomaly Detection Model </br>
+-  [2023 AiaaS] Experimenting with a Drawing Condition Prediction Model Using Generative Model-Based Data Augmentation </br>
+-  [2023 AiaaS] Research on Context-Based Decision Making for Autonomous Vehicles Using Object Detection in Unity Environment </br>
+-  [2023 Text Mining] Development of a Low-Level Chatbot-Based Seoul City Tour Recommendation System </br>
+-  [2023 Machine Learning] Parkinson’s Disease Prediction Project Based on Smartphone Sensor Data </br>
+
+
 -  [2022 Dacon] News Group Classification: Ranked 12th (Top 10%, dsjoh) [Vision]
 -  [2022 Dacon] Lymph Node Metastasis Prediction in Breast Cancer: Ranked 42nd (Top 10%, dsjoh) [Multi-Modal]
 -  [2022 Dacon] Construction Equipment Oil Condition Classification: Ranked 17th (Top 5%, dsjoh) [Tabular]
