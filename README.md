@@ -9,7 +9,7 @@ I want to be a data scientist who can make good use of this. </br>
 
 ### 🎓 Career
 <p>
--  Participating as a research member in the AIaaS (AI as a Service) Lab(prof. Sangmin Lee) (2023~2024) </br>
+-  Participating as a research member in the AIaaS (AI as a Service) Lab (2023~2024) </br>
 -  Graduated from the Department of Data Science, School of Information Convergence, Kwangwoon University (2025) </br>
 -  Currently pursuing a Master's degree in the Department of ~ at ~ University </br>
 </p>
