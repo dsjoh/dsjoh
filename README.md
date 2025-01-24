@@ -5,6 +5,8 @@
  - I want to be a data scientist who can make good use of this. </br>
 </p>
 
+<br>
+
 ### 🏅 Competition
 <p>
 
@@ -44,7 +46,8 @@
 ### 🏆 Award
 <p>
 - [2023 Kwangwoon Univ] Dean’s List, for Academic Excellence
-- [2023 Kwangwoon Univ] Dean’s List, for Academic Excellence
+- [2024 Kwangwoon Univ] Grand Prize at the Graduation Exhibition (1st Place) 
+- [2024 Kwangwoon Univ] Excellence Award in Industry-Academia Collaboration Software Project (2nd Place)
 </p><br>
 
 ### 🛠 Tech Stack
