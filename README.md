@@ -1,4 +1,4 @@
-### 👋&nbsp; Hi there! I'm <b> @iDolphin99</b> <br/> 
+### 👋&nbsp; Hi there! I'm <b> @dsjoh</b> <br/> 
 <p>
  I’m currently learning ML, DL, Computer Vision, Virtual Reality. 
 </p>
