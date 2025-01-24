@@ -1,17 +1,51 @@
 ### 🎉 &nbsp; Hi there! I'm <b> @dsjoh</b> <br/> 
 <p>
- I’m interested in ML, DL, Data Science, Data Mining </br>
- It is interesting to find meaningful information within complex data. </br>
- I want to be a data scientist who can make good use of this. </br>
+ - I’m interested in ML, DL, Data Science, Data Mining </br>
+ - It is interesting to find meaningful information within complex data. </br>
+ - I want to be a data scientist who can make good use of this. </br>
 </p>
 
 ### 🏅 Competition
+<p>
 
+🥇 **Dacon** </b> <br>
+-  [2023 Dacon] LG Aimers Smart Factory Product Quality Classification: Ranked 16th (Top 5%, dsjoh) [Tabular]
+-  [2023 Dacon] Customer Churn Prediction: Ranked 54th (Top 10%, dsjoh) [Tabular]
+-  [2023 Dacon] Court Judgment Prediction: Ranked 66th (Top 10%, dsjoh) [NLP]
+-  [2022 Dacon] COVID-19 Detection using Audio Data: Ranked 26th (Top 3%, dsjoh) [Audio]
+-  [2022 Dacon] Credit Card Fraud Detection: Ranked 78th (Top 10%, dsjoh) [Tabular]
+-  [2022 Dacon] Sign Language Image Classification: Ranked 13th (Top 10%, dsjoh) [Vision]
+-  [2022 Dacon] News Group Classification: Ranked 12th (Top 10%, dsjoh) [Vision]
+-  [2022 Dacon] Lymph Node Metastasis Prediction in Breast Cancer: Ranked 42nd (Top 10%, dsjoh) [Multi-Modal]
+-  [2022 Dacon] Construction Equipment Oil Condition Classification: Ranked 17th (Top 5%, dsjoh) [Tabular]
+-  [2022 Dacon] Machine Fault Diagnosis: Ranked 40th (Top 12%, dsjoh) [Audio]
+-  [2022 Dacon] Kwangwoon University KW AI Hackathon: Ranked 10th [Vision]
+-  [2022 Dacon] Sentence Type Classification: Ranked 105th (dsjoh) [NLP]
 
+🥈 **MachineHack** </b> <br>
+  - [2022 Machinehack] Accident Risk Score Prediction by Postcode: Ranked 14th (Top 5%, dsjoh) [Tabular]
+
+🥉 **Kaggle** </b> <br>
+  - Not Yet
+ 
+</p><br>
+
+<br>
 
 ### 🎯 Project
+<p>
+ Anyone who will communicate or participate in the Competition, please always contact me. I am passionate about data science 👀 <br><br>
+ <a href="mailto:dsjoh24@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+ <a href="https://dacon.io/myprofile/445044/home"><img src="https://img.shields.io/badge/Dacon-3B7BDE?style=flat-square&logo=Dacon&logoColor=white&link=viliketh1s98@naver.com"/></a>
+ <a href="https://www.kaggle.com/dsjoh24" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/dsjoh24/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a>
+</p><br>
 
-
+### 🏆 Award
+<p>
+- [2023 Kwangwoon Univ] Dean’s List, for Academic Excellence
+- [2023 Kwangwoon Univ] Dean’s List, for Academic Excellence
+</p><br>
 
 ### 🛠 Tech Stack
 Languages & Libraries & Development Tools </b>
@@ -53,7 +87,7 @@ Languages & Libraries & Development Tools </b>
  <a href="mailto:dsjoh24@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
  <a href="https://dacon.io/myprofile/445044/home"><img src="https://img.shields.io/badge/Dacon-3B7BDE?style=flat-square&logo=Dacon&logoColor=white&link=viliketh1s98@naver.com"/></a>
  <a href="https://www.kaggle.com/dsjoh24" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/hyeongbin-park-20080124b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a>
+ <a href="https://www.linkedin.com/in/dsjoh24/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a>
 </p><br>
   
   
