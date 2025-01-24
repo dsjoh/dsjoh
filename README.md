@@ -13,6 +13,7 @@ I want to be a data scientist who can make good use of this. </br>
 -  Graduated from the Department of Data Science, School of Information Convergence, Kwangwoon University (2025) </br>
 -  Currently pursuing a Master's degree in the Department of ~ at ~ University </br>
 </p>
+
 -----------------------------------------------------
 
 
