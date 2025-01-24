@@ -81,11 +81,19 @@ Languages & Libraries & Development Tools </b>
 
 ### 🎯 Project
 <p>
- Anyone who will communicate or participate in the Competition, please always contact me. I am passionate about data science 👀 <br><br>
- <a href="mailto:dsjoh24@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
- <a href="https://dacon.io/myprofile/445044/home"><img src="https://img.shields.io/badge/Dacon-3B7BDE?style=flat-square&logo=Dacon&logoColor=white&link=viliketh1s98@naver.com"/></a>
- <a href="https://www.kaggle.com/dsjoh24" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/dsjoh24/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a>
+-  [2024 Graduation Exhibition] An English Pronunciation Learning Service for Koreans Using LLM based Recommendation System (Clever Voice : CleVo) With Finda(핀다)
+-  [2023 AI Application] Proposal of CGANomaly (Conditional GANomaly), a Reconstruction-Based Anomaly Detection Model
+-  [2023 AiaaS] Experimenting with a Drawing Condition Prediction Model Using Generative Model-Based Data Augmentation
+-  [2023 AiaaS] Research on Context-Based Decision Making for Autonomous Vehicles Using Object Detection in Unity Environment
+-  [2023 Text Mining] Development of a Low-Level Chatbot-Based Seoul City Tour Recommendation System
+-  [2023 Machine Learning] Parkinson’s Disease Prediction Project Based on Smartphone Sensor Data
+ 
+-  [2022 Dacon] News Group Classification: Ranked 12th (Top 10%, dsjoh) [Vision]
+-  [2022 Dacon] Lymph Node Metastasis Prediction in Breast Cancer: Ranked 42nd (Top 10%, dsjoh) [Multi-Modal]
+-  [2022 Dacon] Construction Equipment Oil Condition Classification: Ranked 17th (Top 5%, dsjoh) [Tabular]
+-  [2022 Dacon] Machine Fault Diagnosis: Ranked 40th (Top 12%, dsjoh) [Audio]
+-  [2022 Dacon] Kwangwoon University KW AI Hackathon: Ranked 10th [Vision]
+-  [2022 Dacon] Sentence Type Classification: Ranked 105th (dsjoh) [NLP]
 </p><br>
 
 -----------------------------------------------------
@@ -102,7 +110,7 @@ Languages & Libraries & Development Tools </b>
 
 ### 📢 Contact Me
 <p>
- Anyone who will communicate or participate in the Competition, please always contact me. I am passionate about data science 👀 <br><br>
+ Anyone who will communicate or participate in the Competition, please always contact me. I am passionate about Data Science 👀 <br><br>
  <a href="mailto:dsjoh24@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
  <a href="https://dacon.io/myprofile/445044/home"><img src="https://img.shields.io/badge/Dacon-3B7BDE?style=flat-square&logo=Dacon&logoColor=white&link=viliketh1s98@naver.com"/></a>
  <a href="https://www.kaggle.com/dsjoh24" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
