@@ -109,15 +109,19 @@ Languages & Libraries & Development Tools </b>
 
 ### 📢 Contact Me
 <p>
- Anyone who will communicate or participate in the Competition, please always contact me. I am passionate about Data Science 👀 <br><br>
+ Anyone who will communicate or participate in the Competition, please always contact me. I am passionate about Data Science 👀 <br>
+ 
+ **Contact : dsjoh24@gmail.com** <br>
+ 
  <a href="mailto:dsjoh24@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
  <a href="https://dacon.io/myprofile/445044/home"><img src="https://img.shields.io/badge/Dacon-3B7BDE?style=flat-square&logo=Dacon&logoColor=white&link=viliketh1s98@naver.com"/></a>
  <a href="https://www.kaggle.com/dsjoh24" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/dsjoh24/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a>
 </p><br>
   
   
   <!---
 dsjoh/dsjoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+ <a href="https://www.linkedin.com/in/dsjoh24/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a>
+
 --->
