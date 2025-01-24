@@ -1,4 +1,4 @@
-### 🎉 &nbsp; Hi there! I'm <b> @dsjoh</b> <br/> 
+### 😎 &nbsp; Hi there! I'm <b> @dsjoh</b> <br/> 
 <p>
  - I’m interested in ML, DL, Data Science, Data Mining </br>
  - It is interesting to find meaningful information within complex data. </br>
@@ -43,12 +43,16 @@
  <a href="https://www.linkedin.com/in/dsjoh24/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a>
 </p><br>
 
+<br>
+
 ### 🏆 Award
 <p>
 - [2023 Kwangwoon Univ] Dean’s List, for Academic Excellence
 - [2024 Kwangwoon Univ] Grand Prize at the Graduation Exhibition (1st Place) 
 - [2024 Kwangwoon Univ] Excellence Award in Industry-Academia Collaboration Software Project (2nd Place)
 </p><br>
+
+<br>
 
 ### 🛠 Tech Stack
 Languages & Libraries & Development Tools </b>
@@ -83,6 +87,7 @@ Languages & Libraries & Development Tools </b>
  <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=googlemeet&logoColor=white"/></a>
 </p>
 
+<br>
 
 ### 📢 Contact Me
 <p>
