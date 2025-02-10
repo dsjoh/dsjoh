@@ -9,7 +9,7 @@ I want to be a data scientist who can make good use of this. </br>
 
 ### 💻 Portfolio
 <p>
--  OH SEUNG JOON ([아줌마 개발일지](https://yunamom.tistory.com "초보 개발자 공부기록")) </br>
+-  OH SEUNG JOON () </br>
 </p>
 
 -----------------------------------------------------
