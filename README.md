@@ -7,6 +7,12 @@ I want to be a data scientist who can make good use of this. </br>
 
 -----------------------------------------------------
 
+### 💻 Portfolio
+<p>
+-  OH SEUNG JOON (./오승준_프로젝트_포트폴리오.pdf) </br>
+</p>
+
+-----------------------------------------------------
 ### 🎓 Career
 <p>
 -  Participating as a research member in the AIaaS (AI as a Service) Lab (2023~2024) </br>
