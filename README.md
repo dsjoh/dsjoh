@@ -9,7 +9,7 @@ I want to be a data scientist who can make good use of this. </br>
 
 ### 💻 Portfolio
 <p>
--  OH SEUNG JOON () </br>
+-  OH SEUNG JOON (./portfolio.pdf) </br>
 </p>
 
 -----------------------------------------------------
