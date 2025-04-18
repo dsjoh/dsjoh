@@ -16,7 +16,7 @@ I want to be a data scientist who can make good use of this. </br>
 ### 🎓 Career
 <p>
 -  Participating as a research member in the AIaaS (AI as a Service) Lab (2023~2024) </br>
--  Graduated from the Department of Data Science, School of Information Convergence, Kwangwoon University (2025) </br>
+-  Graduated from the Department of Data Science, School of Information Convergence, </br>
 </p>
 
 -----------------------------------------------------
@@ -104,9 +104,9 @@ Languages & Libraries & Development Tools </b>
 
 ### 🏆 Award
 <p>
-[2023 Kwangwoon Univ] Dean’s List, for Academic Excellence <br>
-[2024 Kwangwoon Univ] Grand Award at the Graduation Exhibition (1st Place) <br>
-[2024 Kwangwoon Univ] Excellence Award in Industry-Academia Collaboration Software Project (2nd Place) <br>
+[2023 Univ] Dean’s List, for Academic Excellence <br>
+[2024 Univ] Grand Award at the Graduation Exhibition (1st Place) <br>
+[2024 Univ] Excellence Award in Industry-Academia Collaboration Software Project (2nd Place) <br>
 </p>
 
 
